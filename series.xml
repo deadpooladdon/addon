@@ -44,7 +44,7 @@
 <link>$doregex[getMP4]</link>
 <thumbnail>http://oi64.tinypic.com/5ujtw6.jpg</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="(.*?)" title="ver(el.*?)"]]></expres>
+<expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
 <page>http://www.tusnovelas.net/ver-telenovela/el-bienamado</page>
 <cookieJar></cookieJar>
 </regex>
