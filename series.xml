@@ -34,18 +34,18 @@
 </item>
 
 <item>
-<title>[COLOR lime] •[/COLOR][COLOR red] El BienAmado [/COLOR]</title>
-<thumbnail>http://oi64.tinypic.com/5ujtw6.jpg</thumbnail>
+<title>[COLOR lime] •[/COLOR][COLOR red] Blue Demon 2 [/COLOR]</title>
+<thumbnail>http://oi63.tinypic.com/2mh8uqe.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[getMP4]</link>
-<thumbnail>http://oi64.tinypic.com/5ujtw6.jpg</thumbnail>
+<thumbnail>http://oi63.tinypic.com/2mh8uqe.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/el-bienamado</page>
+<page>http://www.tusnovelas.net/ver-telenovela/blue-demon-2</page>
 <cookieJar></cookieJar>
 </regex>
 
