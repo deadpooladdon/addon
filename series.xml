@@ -114,14 +114,14 @@
 <link>$doregex[getMP4]</link>
 <thumbnail>http://oi67.tinypic.com/332qdft.jpg</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
+<expres><![CDATA[href="(.*?)" title="ver(el.*?)"]]></expres>
 <page>http://www.tusnovelas.net/ver-telenovela/el-chapo</page>
 <cookieJar></cookieJar>
 </regex>
 
 <regex>
 <name>getLink</name>
-<expres><![CDATA[iframe src="(.*?gamo.*?)"]]></expres>
+<expres><![CDATA[(?:iframe src|IFRAME SRC)="(.*?gamo.*?)"]]></expres>
 <page>http://www.tusnovelas.net[makelist.param1]</page>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
 <cookieJar></cookieJar>
@@ -137,4 +137,3 @@
 </includeheaders>
 </regex>
 </item>
-
