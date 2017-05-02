@@ -105,24 +105,24 @@
 
 <item>
 <title>[COLOR lime] •[/COLOR][COLOR red] La Piloto [/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>http://oi67.tinypic.com/2renww6.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[getMP4]</link>
-<thumbnail></thumbnail>
+<thumbnail>http://oi67.tinypic.com/2renww6.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>hxxtp://www.tusnovelas.net/ver-telenovela/la-piloto</page>
+<page>http://www.tusnovelas.net/ver-telenovela/la-piloto</page>
 <cookieJar></cookieJar>
 </regex>
 
 <regex>
 <name>getLink</name>
 <expres><![CDATA[iframe src="(.*?gamo.*?)"]]></expres>
-<page>hxxp://www.tusnovelas.net[makelist.param1]</page>
+<page>http://www.tusnovelas.net[makelist.param1]</page>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
 <cookieJar></cookieJar>
 </regex>
@@ -137,3 +137,5 @@
 </includeheaders>
 </regex>
 </item>
+
+
