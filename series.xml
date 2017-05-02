@@ -34,94 +34,24 @@
 </item>
 
 <item>
-<title>[COLOR lime] •[/COLOR][COLOR red] La Querida Del Centauro 2[/COLOR]</title>
-<thumbnail>http://oi68.tinypic.com/ivcnfb.jpg</thumbnail>
+<title>[COLOR lime] •[/COLOR][COLOR red] El BienAmado [/COLOR]</title>
+<thumbnail>http://oi64.tinypic.com/5ujtw6.jpg</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR blue][makelist.param2][/COLOR]</title>
 <link>$doregex[getMP4]</link>
-<thumbnail>http://oi68.tinypic.com/ivcnfb.jpg</thumbnail>
+<thumbnail>http://oi64.tinypic.com/5ujtw6.jpg</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/la-querida-del-centauro-2</page>
+<expres><![CDATA[href="(.*?)" title="ver(el.*?)"]]></expres>
+<page>http://www.tusnovelas.net/ver-telenovela/el-bienamado</page>
 <cookieJar></cookieJar>
 </regex>
 
 <regex>
 <name>getLink</name>
 <expres><![CDATA[iframe src="(.*?gamo.*?)"]]></expres>
-<page>http://www.tusnovelas.net[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getMP4</name>
-<expres><![CDATA[file: "(.*?)".*\s.*\s.*tracks]]></expres>
-<page>$doregex[getLink]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<cookieJar></cookieJar>
-<connection>keep-alive</connection>
-</includeheaders>
-</regex>
-</item>
-
-<item>
-<title>[COLOR lime] •[/COLOR][COLOR red] Paquita La Del Barrio[/COLOR]</title>
-<thumbnail>http://oi68.tinypic.com/jhvtau.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue][makelist.param2][/COLOR]</title>
-<link>$doregex[getMP4]</link>
-<thumbnail>http://oi68.tinypic.com/jhvtau.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/paquita-la-del-barrio</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getLink</name>
-<expres><![CDATA[iframe src="(.*?gamo.*?)"]]></expres>
-<page>http://www.tusnovelas.net[makelist.param1]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getMP4</name>
-<expres><![CDATA[file: "(.*?)".*\s.*\s.*tracks]]></expres>
-<page>$doregex[getLink]</page>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<cookieJar></cookieJar>
-<connection>keep-alive</connection>
-</includeheaders>
-</regex>
-</item>
-
-<item>
-<title>[COLOR lime] •[/COLOR][COLOR red] El Chapo [/COLOR]</title>
-<thumbnail>http://oi67.tinypic.com/332qdft.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue][makelist.param2][/COLOR]</title>
-<link>$doregex[getMP4]</link>
-<thumbnail>http://oi67.tinypic.com/332qdft.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="(.*?)" title="ver(.*?)"]]></expres>
-<page>http://www.tusnovelas.net/ver-telenovela/el-chapo</page>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>getLink</name>
-<expres><![CDATA[(?:iframe src|IFRAME SRC)="(.*gamo.*?)"\W]]></expres>
 <page>http://www.tusnovelas.net[makelist.param1]</page>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
 <cookieJar></cookieJar>
