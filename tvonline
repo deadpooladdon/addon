@@ -1,31 +1,115 @@
-#EXTM3U
-#EXTINF:-1,Canal 2
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/599.ts
-#EXTINF:-1,Canal 5 HD
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1392.ts
-#EXTINF:-1,Azteca 7
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1192.ts
-#EXTINF:-1,Azteca 13
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1278.ts
-#EXTINF:-1,Az Mundo
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1233.ts
-#EXTINF:-1,CI Crime Investigation
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/635.ts
-#EXTINF:-1,Citytv (Colombia)
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/938.ts
-#EXTINF:-1,Distrito Comedia
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1186.ts
-#EXTINF:-1,Gala TV
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1236.ts
-#EXTINF:-1,KOREA Arirang
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1309.ts
-#EXTINF:-1,KRONEHIT HD
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/340.ts
-#EXTINF:-1,Las Estrellas Sudamerica
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1237.ts
-#EXTINF:-1,MTV Norway
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1238.ts
-#EXTINF:-1,Musictop HD
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/795.ts
-#EXTINF:-1,Telemundo Internacional
-http://142.4.217.62:25461/live/Deadpooladdon/visitapungatv.club/1471.ts
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+  <title>De La Comunidad</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://pastebin.com/raw/ffGsL3m0</externallink>
+</item>
+
+<item>
+  <title>Total Play</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://www.elfinanciero.com.mx/files/article_main/uploads/2015/01/26/54c6c4c269bfb.png</thumbnail>
+  <fanart>http://www.elfinanciero.com.mx/files/article_main/uploads/2015/01/26/54c6c4c269bfb.png</fanart> 
+  <externallink>http://bendermutt.com/fusion/tepes/tepes.m3u</externallink>
+</item>
+
+<item>
+  <title>Nacionales</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/tevaye0dlmomaqp/Nacionales.m3u?dl=0</externallink>
+</item>
+
+
+<item>
+  <title>Entretenimiento</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/cysdudr11enm3a3/Entretenimiento.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>Mundo y Cultura</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/khw3na842t6ro3f/MundoyCultura.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>Niños</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/k63bhl1gmpewzyr/Niños.m3u?dl=0</externallink>
+</item>
+
+
+<item>
+  <title>Cine</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>Aportes Comunitarios</externallink>
+</item>
+
+<item>
+  <title>Deportes</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/liy25rzlta2bbzu/Deportes.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>Noticias</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/x2gcrpe7un3pivd/Noticias.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>Musica</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/x2gcrpe7un3pivd/Musica.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>PayPerView</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/x2gcrpe7un3pivd/ppv.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>HD</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/x2gcrpe7un3pivd/hd.m3u?dl=0</externallink>
+</item>
+
+<item>
+  <title>24/7 en español</title>
+ <link>http://ignorame</link>
+  <thumbnail>http://i.imgur.com/Q7rAwdU.jpg</thumbnail>
+  <fanart>http://i.imgur.com/Q7rAwdU.jpg</fanart> 
+  <externallink>https://dl.dropbox.com/s/x2gcrpe7un3pivd/247.m3u?dl=0</externallink>
+</item>
+
+<item>
+<title>Internacional</title>
+<thumbnail>http://i.imgur.com/wMcdP89.png</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropbox.com/s/x2gcrpe7un3pivd/tv_internasional.xml?dl=0</externallink>
+<fanart></fanart>
+</item>
+<item>
